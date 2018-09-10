@@ -1,0 +1,6 @@
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai1\buoi1_bai1\bin\Debug\buoi1_bai1.exe.config
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai1\buoi1_bai1\obj\Debug\buoi1_bai1.csprojResolveAssemblyReference.cache
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai1\buoi1_bai1\bin\Debug\buoi1_bai1.exe
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai1\buoi1_bai1\bin\Debug\buoi1_bai1.pdb
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai1\buoi1_bai1\obj\Debug\buoi1_bai1.exe
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai1\buoi1_bai1\obj\Debug\buoi1_bai1.pdb

@@ -1,0 +1,5 @@
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai8\buoi1_bai8\bin\Debug\buoi1_bai8.exe.config
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai8\buoi1_bai8\bin\Debug\buoi1_bai8.exe
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai8\buoi1_bai8\bin\Debug\buoi1_bai8.pdb
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai8\buoi1_bai8\obj\Debug\buoi1_bai8.exe
+C:\Users\PC01\Desktop\buoi1_hhm\buoi1_bai8\buoi1_bai8\obj\Debug\buoi1_bai8.pdb
