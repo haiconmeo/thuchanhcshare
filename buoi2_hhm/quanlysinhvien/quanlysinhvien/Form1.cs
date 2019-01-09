@@ -55,7 +55,7 @@ namespace quanlysinhvien
          void a_add(sinhvien sv1)
         {
             ql.l.Add(sv1);
-            MessageBox.Show("cc");
+            MessageBox.Show("Đã Cập Nhật");
         }
 
         private void b_update_Click(object sender, EventArgs e)

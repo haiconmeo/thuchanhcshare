@@ -10,7 +10,7 @@ namespace buoi1_bai26
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("nhap vao xau:");
+            Console.WriteLine(" nhap vao xau:");
             string a = Console.ReadLine();
             char [] s = a.ToCharArray();
             s[0] = Convert.ToChar(Convert.ToInt32(s[0]) - 32);

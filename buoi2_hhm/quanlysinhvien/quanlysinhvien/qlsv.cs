@@ -12,24 +12,22 @@ namespace quanlysinhvien
        public qlsv()
         {
             sinhviendaihoc s1 = new sinhviendaihoc {
-                name = "manh",
+                name = "Bu Bu HUy",
                 mssv = "1",
                 ngaysinh = DateTime.Now,
-                diachi = "nghe an1",
+                diachi = "Đa nang",
                 dienthoai = "01675571178",
                 nienkhoa = "16",
                 loaihinh = 2,
                 chuyennganh ="cntt",
-                //bang1 ="ky su",
-                //congtac =""
 
             };
             sinhviencaodang s2 = new sinhviencaodang
             {
-                name = "manh1",
+                name = "Manh",
                 mssv = "2",
                 ngaysinh = DateTime.Now,
-                diachi = "nghe an2",
+                diachi = "Nghe An",
                 dienthoai = "01675571178",
                 nienkhoa = "16",
                 loaihinh = 1,
@@ -38,11 +36,11 @@ namespace quanlysinhvien
             };
             sinhvienbang2 s3 = new sinhvienbang2
             {
-                name = "manh2",
+                name = "Tue Anh",
                 mssv = "3",
                 ngaysinh = DateTime.Now,
-                diachi = "nghe an3",
-                dienthoai = "01675571178",
+                diachi = "Quang nam",
+                dienthoai = "016755",
                 nienkhoa = "16",
                 loaihinh = 1,
                 //chuyennganh = "cntt",

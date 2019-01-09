@@ -1,6 +1,6 @@
 <!--Xml Document-->
 <catalog>
-  <book id="bk001">
-    <title>Book Title</title>
+  <book id="ID001">
+    <title>Luu Van Huy</title>
   </book>
 </catalog>

@@ -1,28 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel;
+    using System.Data;
+    using System.Drawing;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
+    using System.Windows.Forms;
 
-namespace buoi2_bai2
-{
-    public partial class Form3 : Form
+    namespace buoi2_bai2
     {
-        public delegate void xx(string a);
-        public xx aa;
-        public Form3()
+        public partial class Form3 : Form
         {
-            InitializeComponent();
-        }
+            public delegate void xx(string a);
+            public xx aa;
+            public Form3()
+            {
+                InitializeComponent();
+            }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            aa(textBox1.Text.ToString());
-            this.Close();
+            private void button1_Click(object sender, EventArgs e)
+            {
+                aa(textBox1.Text.ToString());
+                this.Close();
+            }
         }
     }
-}
